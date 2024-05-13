@@ -7,7 +7,7 @@ cssclasses:
 
 ```dataview
 
-TABLE dateformat(file.mtime, "yyyy/MM/dd") AS "Last Modified"
+TABLE dateformat(file.mtime, "yyyy/MM/dd") AS "<span>Last Modified</span>"
 
 WHERE date(today) - file.mtime <= dur(7 days) SORT file.mtime DESC
 
