@@ -1,3 +1,9 @@
+---
+cssclasses:
+  - width-100
+  - dashboard
+---
+
 ---  
 created: {{date}} {{time}}  
 ---  
