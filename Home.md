@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+  - width-100
 ---
 # Valut Info
 ---
@@ -14,6 +15,4 @@ const list = dv.pages(`"${cfile.folder}"`)
     .map(b => b.file.link);
 dv.list(list);
 ```
-
-
 ---
