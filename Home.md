@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Valut Info
 ---
-### Project
+### 최근 문서 변경 목록
 ---
 ```dataviewjs
 const cfile = dv.current().file;
