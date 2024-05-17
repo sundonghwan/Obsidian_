@@ -1,0 +1,4 @@
+---
+cssclasses:
+  - width-100
+---
